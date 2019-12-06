@@ -9,4 +9,3 @@ i=i*2
 console.log("i");
 
 }
-duplicar(2)
