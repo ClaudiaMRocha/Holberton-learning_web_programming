@@ -7,7 +7,7 @@ mystery();
 
 function duplicar(i){
 i=i*2
-console.log("i");
+console.log(i);
 
 }
 duplicar(2);
