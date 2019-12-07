@@ -1,5 +1,5 @@
-var numeros = "";
-for (i = 0; i < 100; i++) {
-  numeros.push(i);
- }
-  console.log(numeros);
+  function evens () {
+      var i;
+      for (i = 2; i <= 100; i++,i++) {
+          console.log(i);
+      }
