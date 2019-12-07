@@ -1,4 +1,4 @@
-var numero = "";
+var numeros = "";
 for (i = 0; i < 100; i++) {
   numeros.push(i);
  {
