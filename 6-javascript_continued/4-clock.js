@@ -10,8 +10,9 @@ while (h <= 23) {
   m=0;
 while (m < 59) {
 
-  m++;
+
 
   console.log(m);
+  m++;
   }h++;
 }
